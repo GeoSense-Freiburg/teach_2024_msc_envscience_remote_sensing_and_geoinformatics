@@ -18,6 +18,7 @@ Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
 * Your own computer
 * CIP-Pool computers
 * Google Colab: https://colab.research.google.com/
+ * Colab-JuPyteR shortcuts: https://colab.research.google.com/drive/13IO3-gfyS9mSPuzAo6-wsYBUOVpxb_va?usp=sharing
 
 
 ## install packages
