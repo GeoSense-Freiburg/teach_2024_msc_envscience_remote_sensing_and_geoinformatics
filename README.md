@@ -12,4 +12,9 @@ Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
 
 ## Access to the data
 * All data can be found [here](https://drive.google.com/drive/folders/1hiPaQaDegKOba22Mg7ZBoOSkcNBgTMnR?usp=drive_link).
-* In total the data amounts to 18 GB. Let me know if you do not have sufficient storage ressources for the duration of the course. 
+* In total the data amounts to 18 GB. Let me know if you do not have sufficient storage ressources for the duration of the course.
+
+## Where to perform the analysis?
+* Your own computer
+* CIP-Pool computers
+* Google Colab: https://colab.research.google.com/
