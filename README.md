@@ -5,8 +5,8 @@ Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
 ## Small list of advices or this course:
 * dare to ask many questions
 * dare to give feedback
-  * such as improvements for the course, errors in the code, etc.
-  * Feedback can be addressed in the course, to teja.kattenborn@geosense.uni-freiburg or also here in Github unter "Issues" or "Disscussions)
+  * in the course, to teja.kattenborn@geosense.uni-freiburg or also here in Github unter "Issues" or "Disscussions)
+  * For instance, feedback on improvements for the course, errors in the code, analysis of interest, etc.
 * Be patient with yourself (expect both flat and steep learning curves)
 * Help eachother :-)
 
