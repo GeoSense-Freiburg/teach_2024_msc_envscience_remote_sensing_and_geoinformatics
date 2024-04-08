@@ -23,3 +23,4 @@ Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
 ## install packages
 * pip install rioxarray (in colab)
 * alternatives conda or mamba (conda install <packagename> -c conda-forge)
+* list of packages that should be installed for the course: rioxarray rioxarray matplotlib numpy xarray glob2 pandas geopandas rasterstats rasterio
