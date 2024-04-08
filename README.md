@@ -18,3 +18,8 @@ Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
 * Your own computer
 * CIP-Pool computers
 * Google Colab: https://colab.research.google.com/
+
+
+## install packages
+* pip install rioxarray (in colab)
+* alternatives conda or mamba (conda install <packagename> -c conda-forge)
