@@ -2,7 +2,8 @@
 Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
 
 ## News
-* Meeting for the drone campaign on Thursday 11.04.2024: https://www.google.com/maps/d/u/0/viewer?mid=1Ah2MfKngwOZFqpjER-AID_RQrqEj5aw
+* For the 12.04.2024 the plan is to work on the chapter [04_earth_observation_products_automl.ipynb](https://github.com/GeoSense-Freiburg/teach_2024_msc_envscience_remote_sensing_and_geoinformatics/blob/main/01_earth_observation_data/04_earth_observation_products_automl.ipynb) and the corresponding assignemnts.
+* For the 11.04.2024 the meeting for the joint drone campaign is given here: https://www.google.com/maps/d/u/0/viewer?mid=1Ah2MfKngwOZFqpjER-AID_RQrqEj5aw
 
 ## Small list of advices or this course:
 * dare to ask many questions
