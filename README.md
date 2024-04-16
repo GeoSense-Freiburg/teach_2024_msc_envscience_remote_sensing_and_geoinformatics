@@ -16,6 +16,7 @@ Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
   * (no need to understand every piece and term but you should have a rough overview)
 * Compare your delineated orthoimages to our artifical intelligence (pattern recognition using Convolutional Neural Networks)
  * This might only work in Colab, as it requires GPU resources. Find the script [here](https://github.com/GeoSense-Freiburg/teach_2024_msc_envscience_remote_sensing_and_geoinformatics/tree/main/03_drone_data_and_segmentation)
+* Brainstorm on what you would like to do as a individual group project next week (2 persons per group).
 
 ## Small list of advices or this course:
 * dare to ask many questions
