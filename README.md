@@ -2,8 +2,9 @@
 Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
 
 ## News
-* For the 12.04.2024 the plan is to work on the chapter [04_earth_observation_products_automl.ipynb](https://github.com/GeoSense-Freiburg/teach_2024_msc_envscience_remote_sensing_and_geoinformatics/blob/main/01_earth_observation_data/04_earth_observation_products_automl.ipynb) and the corresponding assignemnts.
-* For the 11.04.2024 the meeting for the joint drone campaign is given here: https://www.google.com/maps/d/u/0/viewer?mid=1Ah2MfKngwOZFqpjER-AID_RQrqEj5aw
+* Wednesday
+ * Maximilian Fabi will show you the orthoimage processing. He will pick you up at CIP3 at 09:15 (usual place and time).
+* Thursday: you should read https://www.sciencedirect.com/science/article/pii/S2667393223000054 and checkout the current state of the database we are currenlty setting up. 
 
 ## Small list of advices or this course:
 * dare to ask many questions
