@@ -4,6 +4,7 @@ Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
 ## News
 ### Wednesday
  * Maximilian Fabi will show you the orthoimage processing. He will pick you up at CIP3 at 09:15 (usual place and time).
+ * Finish the leftovers of the citizen science assignments or relax :-)
 ### Thursday
 * you should read https://www.sciencedirect.com/science/article/pii/S2667393223000054
   * (no need to understand every piece and term but you should have a rough overview)
