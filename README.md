@@ -9,6 +9,7 @@ Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
   * (no need to understand every piece and term but you should have a rough overview)
 * checkout the current state of the database we are currenlty setting up at https://www.deadtrees.earth
 * Delindate orthoimagery; the idea was 2-5 Orthoimages per person ... depending on how much you want to support us :-)
+   * A HowTo on the delineation process and the data can be found [here](https://docs.google.com/document/d/1DDSURAc9qttpeHZnNodmOtSd0TeKYtIFamsRmkFtN3k/edit?usp=sharing).
 ### Friday
 * Get a glimpse on why deep learning-based pattern recognition is so powerful in the remote sensing domain. You may checkout our publication in that context, e.g,:
   * https://www.sciencedirect.com/science/article/pii/S0924271620303488
