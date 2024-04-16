@@ -2,9 +2,19 @@
 Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
 
 ## News
-* Wednesday
+### Wednesday
  * Maximilian Fabi will show you the orthoimage processing. He will pick you up at CIP3 at 09:15 (usual place and time).
-* Thursday: you should read https://www.sciencedirect.com/science/article/pii/S2667393223000054 and checkout the current state of the database we are currenlty setting up. 
+### Thursday
+* you should read https://www.sciencedirect.com/science/article/pii/S2667393223000054
+* checkout the current state of the database we are currenlty setting up at https://www.deadtrees.earth
+* Delindate orthoimagery; the idea was 2-5 Orthoimages per person ... depending on how much you want to support us :-)
+### Friday
+* Get a glimpse on why deep learning-based pattern recognition is so powerful in the remote sensing domain. You may checkout our publication in that context, e.g,:
+  * https://www.sciencedirect.com/science/article/pii/S0924271620303488
+  * https://www.sciencedirect.com/science/article/pii/S0924271620302938
+  * (no need to understand every piece and term but you should have a rough overview)
+* Compare your delineated orthoimages to our artifical intelligence (pattern recognition using Convolutional Neural Networks)
+ * 
 
 ## Small list of advices or this course:
 * dare to ask many questions
