@@ -2,8 +2,20 @@
 Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
 
 ## News
-* For the 12.04.2024 the plan is to work on the chapter [04_earth_observation_products_automl.ipynb](https://github.com/GeoSense-Freiburg/teach_2024_msc_envscience_remote_sensing_and_geoinformatics/blob/main/01_earth_observation_data/04_earth_observation_products_automl.ipynb) and the corresponding assignemnts.
-* For the 11.04.2024 the meeting for the joint drone campaign is given here: https://www.google.com/maps/d/u/0/viewer?mid=1Ah2MfKngwOZFqpjER-AID_RQrqEj5aw
+### Wednesday
+ * Maximilian Fabi will show you the orthoimage processing. He will pick you up at CIP3 at 09:15 (usual place and time).
+### Thursday
+* you should read https://www.sciencedirect.com/science/article/pii/S2667393223000054
+  * (no need to understand every piece and term but you should have a rough overview)
+* checkout the current state of the database we are currenlty setting up at https://www.deadtrees.earth
+* Delindate orthoimagery; the idea was 2-5 Orthoimages per person ... depending on how much you want to support us :-)
+### Friday
+* Get a glimpse on why deep learning-based pattern recognition is so powerful in the remote sensing domain. You may checkout our publication in that context, e.g,:
+  * https://www.sciencedirect.com/science/article/pii/S0924271620303488
+  * https://www.sciencedirect.com/science/article/pii/S0924271620302938
+  * (no need to understand every piece and term but you should have a rough overview)
+* Compare your delineated orthoimages to our artifical intelligence (pattern recognition using Convolutional Neural Networks)
+ * 
 
 ## Small list of advices or this course:
 * dare to ask many questions
