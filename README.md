@@ -6,6 +6,7 @@ Teaching material for the MSc Module "Remote Sensing and Geoinformatics"
  * Maximilian Fabi will show you the orthoimage processing. He will pick you up at CIP3 at 09:15 (usual place and time).
 ### Thursday
 * you should read https://www.sciencedirect.com/science/article/pii/S2667393223000054
+  * (no need to understand every piece and term but you should have a rough overview)
 * checkout the current state of the database we are currenlty setting up at https://www.deadtrees.earth
 * Delindate orthoimagery; the idea was 2-5 Orthoimages per person ... depending on how much you want to support us :-)
 ### Friday
